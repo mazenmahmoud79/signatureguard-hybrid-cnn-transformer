@@ -1,5 +1,7 @@
 # SignatureGuard: Hybrid CNN–Transformer Model for Cross-Lingual Signature Authentication
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21300792.svg)](https://doi.org/10.5281/zenodo.21300792)
+
 Reference implementation for the paper:
 
 > **A Transformer and Transfer-Learning Approach to Cross-Lingual Signature
@@ -89,7 +91,12 @@ obtained through the sources described in the paper.
 ## Citation
 
 If you use this code, please cite the associated paper (full bibliographic
-details will be updated upon publication).
+details will be updated upon publication) and the archived software release:
+
+> Balat, M., Mamdouh, E., Awaad, R., Elhoseny, M., & Anter, A. M. (2026).
+> *SignatureGuard: A Hybrid CNN–Transformer Model for Cross-Lingual Signature
+> Authentication and Forgery Detection* (v1.0.0). Zenodo.
+> https://doi.org/10.5281/zenodo.21300792
 
 ## License
 
